@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("slumptal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99e69c51b78946e4e8d01c1406b20219bbae45fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+556a4b372980e23c51f355055af8a7c29e6bfd5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("slumptal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("slumptal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

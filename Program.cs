@@ -1,17 +1,19 @@
 ﻿Random rng = new Random();
-int number = rng.Next(1,101);
-int guess = 0;
+int number = rng.Next(1,101);   //slumpat tal
+int guess = 0;                  //antal gissningar
+int tries = 0;                  //antal försök
 
-for(int tries = 1;guess != number;tries++){
+while(guess != number){
+    Console.WriteLine("Gissa på ett tal mellan 1 och 100:");
     guess = int.Parse(Console.ReadLine());
-    
+    tries++;
+
     if(guess < number){
         Console.WriteLine("Ditt tal är för litet.");
     }
-    else if(guess > number){
+    else{
         Console.WriteLine("Ditt tal är för stort.");
     }
-    else{
-        Console.WriteLine("Du gissade rätt och det tog " + tries+ " försök.");
-    }
+
 }
+Console.WriteLine("Du gissade rätt och det tog "+tries+" försök.");
