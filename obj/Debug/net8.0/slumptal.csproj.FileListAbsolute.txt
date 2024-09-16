@@ -1,0 +1,15 @@
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.AssemblyInfoInputs.cache
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.AssemblyInfo.cs
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.csproj.CoreCompileInputs.cache
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.sourcelink.json
+C:\GitHub\slumptal\bin\Debug\net8.0\slumptal.exe
+C:\GitHub\slumptal\bin\Debug\net8.0\slumptal.deps.json
+C:\GitHub\slumptal\bin\Debug\net8.0\slumptal.runtimeconfig.json
+C:\GitHub\slumptal\bin\Debug\net8.0\slumptal.dll
+C:\GitHub\slumptal\bin\Debug\net8.0\slumptal.pdb
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.dll
+C:\GitHub\slumptal\obj\Debug\net8.0\refint\slumptal.dll
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.pdb
+C:\GitHub\slumptal\obj\Debug\net8.0\slumptal.genruntimeconfig.cache
+C:\GitHub\slumptal\obj\Debug\net8.0\ref\slumptal.dll
